@@ -1,4 +1,4 @@
-APKFILE := app-release-3.apk
+APKFILE := $(APKFILE_CLI)
 
 decompile:
 	python3 decompile.py $(APKFILE)
