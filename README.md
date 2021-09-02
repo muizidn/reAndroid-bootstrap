@@ -15,3 +15,7 @@ brew install apktool
 # provide app.apk in root directory
 APKFILE_CLI=app.apk make all
 ```
+
+Got from Reversing.ID telegram
+
+https://github.com/shroudedcode/apk-mitm
