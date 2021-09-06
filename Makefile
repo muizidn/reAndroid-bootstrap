@@ -20,3 +20,8 @@ all: # use this to test whether current apk will successfully passes reverse eng
 
 install:
 	python3 install.py $(APKFILE)
+
+recompile_after_edit:
+	make recompile_aapt2
+	make jarsigner
+	make verify
