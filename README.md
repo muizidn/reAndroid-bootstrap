@@ -19,3 +19,7 @@ APKFILE_CLI=app.apk make all
 Got from Reversing.ID telegram
 
 https://github.com/shroudedcode/apk-mitm
+
+# Readmore!
+
+- https://www.securify.nl/en/blog/android-adb-reverse-tethering-mitm-setup
