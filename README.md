@@ -28,9 +28,13 @@ https://github.com/shroudedcode/apk-mitm
 # PROXY
 - https://github.com/theappbusiness/android-proxy-toggle
 
+```
 adb shell settings put global http_proxy 192.168.1.9:9090
+```
 
+```
 adb shell settings delete global http_proxy
 adb shell settings delete global global_http_proxy_host
 adb shell settings delete global global_http_proxy_port
+```
 
