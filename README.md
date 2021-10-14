@@ -38,3 +38,6 @@ adb shell settings delete global global_http_proxy_host
 adb shell settings delete global global_http_proxy_port
 ```
 
+# Certificate
+- https://betterprogramming.pub/how-to-create-ssl-certificates-for-development-861237235933
+
